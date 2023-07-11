@@ -6,7 +6,7 @@ This repository contains a collection of questions and their answers related to 
 
 Sqoop is an open-source tool developed by Apache Software Foundation that transfers data between Apache Hadoop and relational databases. The name "Sqoop" is derived from "SQL to Hadoop" and reflects its purpose of importing data from structured data sources, such as relational databases, into Hadoop and exporting data from Hadoop back to those data sources.
 
-[<img alt="Sqoop" width="40px" src="[images/image.PNG](https://intellipaat.com/blog/what-is-apache-sqoop/)" />]
+![Sqoop](https://intellipaat.com/blog/what-is-apache-sqoop/)
 
 
 Sqoop provides a command-line interface and supports various relational databases, including MySQL, Oracle, PostgreSQL, and SQL Server. It allows users to import data from a database table or query into Hadoop's HDFS (Hadoop Distributed File System) or Hive, and vice versa, export data from HDFS or Hive to a database.
